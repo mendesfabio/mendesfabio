@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, world! 👋
+
+I'm Fábio, a Engineering Intern at NEO — an acceleration program for high-potencial engineering students within the Federal University of Santa Catarina. 
 
 <!--
 **mendesfabio/mendesfabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
