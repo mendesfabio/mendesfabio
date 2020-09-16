@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-I'm Fábio, a Engineering Intern at [NEO](https://neo.certi.org.br) — an acceleration program for high-potencial engineering students within the Federal University of Santa Catarina. 
+I'm Fábio, an Engineering Intern at [NEO](https://neo.certi.org.br) — an acceleration program for high-potencial engineering students within the Federal University of Santa Catarina. 
 
 <a href="https://www.linkedin.com/in/mendes-fabio">
   <img align="left" alt="Fábio's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
