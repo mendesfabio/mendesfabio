@@ -2,7 +2,7 @@
 
 I'm Fábio, an Engineering Intern at [NEO](https://neo.certi.org.br) — an acceleration program for high-potencial engineering students within the Federal University of Santa Catarina. 
 
-Main Activies:
+Main Activies
 
 - Managed 5 projects with teams of 2 to 3 people
 - Developed a supervisory system in LabVIEW for industrial stress relieving furnace
