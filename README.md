@@ -4,7 +4,7 @@ I'm Fábio, an Engineering Intern at [NEO](https://neo.certi.org.br) — an acce
 
 Main Activies:
 
-- Managed 4 projects with teams of 2 to 3 people
+- Managed 5 projects with teams of 2 to 3 people
 - Developed a supervisory system in LabVIEW for industrial stress relieving furnace
 - Built an MVP that implemented Industry 4.0 technologies to an embedded system
 - Developed a PWA using React and Django to automate the use of the 6M methodology
