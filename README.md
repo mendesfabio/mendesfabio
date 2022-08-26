@@ -5,7 +5,7 @@ This is Fábio, a Data Engineer at [Balancer](https://balancer.fi) — the leadi
 - [Balancer V2 Subgraph](https://github.com/balancer-labs/balancer-subgraph-v2) 👨‍💻
 - [Balancer Dune dashboards](https://dune.com/balancerlabs) 📊
 
-Feel free to reach out to me on [Twitter](http://twitter.com/fabiomendesafc).If you want to talk about Balancer, hop on our [Discord](http://discord.balancer.fi/).
+Feel free to reach out to me on [Twitter](http://twitter.com/fabiomendesafc). If you want to talk about Balancer, hop on our [Discord](http://discord.balancer.fi/).
 
 <!--
 **mendesfabio/mendesfabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
