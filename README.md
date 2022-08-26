@@ -1,6 +1,11 @@
-### Hello, world! 👋
+### gm, anon! 👋
 
-I'm Fábio, an Engineering Intern at [NEO](https://neo.certi.org.br) — an acceleration program for high-potencial engineering students within the Federal University of Santa Catarina. 
+This is Fábio, a Data Engineer at [Balancer](https://balancer.fi) — the leading platform for programable liquidity. I've been in DeFi since 2020, focusing on Dune dashboards and Subgraphs development, but I also contributed to other crypto projects, such as Giveth, Commons Stack, and DAppNode.
+
+- [Balancer V2 Subgraph](https://github.com/balancer-labs/balancer-subgraph-v2) 👨‍💻
+- [Balancer Dune dashboards](https://dune.com/balancerlabs) 📊
+
+Feel free to reach out to me on [Twitter](http://twitter.com/fabiomendesafc).If you want to talk about Balancer, hop on our [Discord](http://discord.balancer.fi/).
 
 <!--
 **mendesfabio/mendesfabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
